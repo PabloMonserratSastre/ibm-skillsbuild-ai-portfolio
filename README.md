@@ -2,7 +2,7 @@
 
 **Pablo Monserrat Sastre** · IA, prompt engineering y ciberseguridad
 
-Portfolio de aprendizaje asociado al plan **IA y software development 2026** de IBM SkillsBuild, completado el **9 de octubre de 2026**, según el certificado de finalización facilitado por el titular (PDF no publicado). Identificador del plan: `PLAN-F54A44FC16C3`.
+Portfolio de aprendizaje asociado al plan **IA y software development 2026** de IBM SkillsBuild, completado el **9 de octubre de 2026**, según el [certificado de finalización](certificate.pdf). Identificador del plan: `PLAN-F54A44FC16C3`.
 
 ## Origen y alcance
 
