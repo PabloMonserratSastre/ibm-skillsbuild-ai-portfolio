@@ -1,0 +1,26 @@
+{
+  "summary": "El equipo corregirá un informe que omite productos con pocas ventas.",
+  "decisions": [
+    "Incluir productos de alto y bajo rendimiento."
+  ],
+  "actions": [
+    {
+      "owner": "Luis",
+      "task": "Revisar el prompt y añadir ambas categorías de rendimiento.",
+      "due": "2026-10-12"
+    },
+    {
+      "owner": "Marta",
+      "task": "Comparar el resultado con los datos originales.",
+      "due": "2026-10-13"
+    },
+    {
+      "owner": "Ana",
+      "task": "Documentar las limitaciones y enviar el resumen al equipo.",
+      "due": "2026-10-14"
+    }
+  ],
+  "open_questions": [
+    "¿Será necesario cambiar de modelo?"
+  ]
+}

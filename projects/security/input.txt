@@ -1,0 +1,7 @@
+Registro ficticio de seguridad, 2026-10-09, horas UTC.
+09:00 El sistema registra 40 intentos fallidos de acceso a una cuenta de prueba.
+09:04 Se genera una alerta del sistema de monitorización.
+09:06 El equipo bloquea temporalmente el origen de los intentos.
+09:10 Se inicia una revisión de los registros de autenticación.
+09:20 No se han observado accesos correctos desde ese origen en los registros revisados.
+09:25 La revisión continúa. No se ha confirmado exfiltración ni el alcance completo.

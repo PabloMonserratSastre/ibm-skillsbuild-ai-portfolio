@@ -1,0 +1,7 @@
+Reunión ficticia del equipo técnico, 2026-10-09.
+Ana: El informe semanal omite productos con pocas ventas. Debemos incluirlos.
+Luis: Revisaré el prompt y añadiré categorías de alto y bajo rendimiento antes del 2026-10-12.
+Marta: Compararé el resultado con los datos originales antes del 2026-10-13.
+Ana: Yo documentaré las limitaciones y enviaré el resumen al equipo antes del 2026-10-14.
+Luis: Queda decidido mantener ambos grupos en el informe.
+Marta: Todavía no sabemos si necesitaremos cambiar de modelo.

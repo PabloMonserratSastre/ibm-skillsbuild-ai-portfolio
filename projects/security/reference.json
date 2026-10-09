@@ -1,0 +1,18 @@
+{
+  "summary": "Se detectaron intentos fallidos repetidos y se bloqueó temporalmente su origen.",
+  "facts": [
+    "40 intentos fallidos a las 09:00 UTC.",
+    "Alerta a las 09:04 UTC.",
+    "Bloqueo temporal a las 09:06 UTC.",
+    "La revisión de registros comenzó a las 09:10 UTC."
+  ],
+  "unknowns": [
+    "Alcance completo del incidente.",
+    "Si hubo exfiltración de datos."
+  ],
+  "suggested_actions": [
+    "Continuar revisando los registros y preservar las evidencias.",
+    "Comprobar la protección de autenticación y el estado de la cuenta de prueba."
+  ],
+  "status": "under_review"
+}

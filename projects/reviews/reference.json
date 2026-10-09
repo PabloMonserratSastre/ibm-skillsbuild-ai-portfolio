@@ -1,0 +1,42 @@
+{
+  "reviews": [
+    {
+      "id": "R1",
+      "sentiment": "mixed",
+      "aspects": [
+        "battery",
+        "shipping"
+      ]
+    },
+    {
+      "id": "R2",
+      "sentiment": "positive",
+      "aspects": [
+        "screen",
+        "price"
+      ]
+    },
+    {
+      "id": "R3",
+      "sentiment": "negative",
+      "aspects": [
+        "product_quality",
+        "refund"
+      ]
+    },
+    {
+      "id": "R4",
+      "sentiment": "neutral",
+      "aspects": [
+        "screen"
+      ]
+    },
+    {
+      "id": "R5",
+      "sentiment": "neutral",
+      "aspects": [
+        "other"
+      ]
+    }
+  ]
+}
